@@ -1,6 +1,6 @@
 # Image Cartoonization
 This script converts a given image to a cartoon using 
-*CV2* library.
+*OpenCV* library.
 
 ### Examples
 ![original image](obama.jpeg)
@@ -13,7 +13,7 @@ python cartoonize.py
 ```
 
 ### Libraries Used
-- CV2
+- OpenCV
 
 ### *Author Name*
 [Mohamed El Hacen Habib](https://github.com/mohamedelhacen)
